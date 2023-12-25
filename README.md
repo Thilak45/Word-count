@@ -15,7 +15,6 @@ use the split() command
 print the counted words
 ### Step 5: 
 end the program 
-
 ## PROGRAM:
 ```
 '''
@@ -33,10 +32,6 @@ print("Number of words in the file = {}".format(num_words))
 ![Screenshot 2023-12-20 192818](https://github.com/Thilak45/Word-count/assets/138849161/872e2405-45c7-4b1f-9d64-44a50908443b)
 
 ![Screenshot 2023-12-20 193013](https://github.com/Thilak45/Word-count/assets/138849161/bd3e08e4-846e-43ed-be9f-9173b0ceea00)
-
-
-
-
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
